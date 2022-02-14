@@ -1043,5 +1043,31 @@
       "price": 179.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     }
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "name": "Ao molho alterado",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
+      "price": "63.00",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": false,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Teste",
+      "price": "123.12",
+      "description": "adsf",
+      "available": true,
+      "id": 4
+    }
   ]
 }
